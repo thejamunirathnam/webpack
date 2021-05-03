@@ -1,7 +1,6 @@
 import React from 'react';
 import {render} from 'react-dom';
-
-const App = () => (<div>Hello</div>);
+import App from './App'
 
 render(
 <App />,
